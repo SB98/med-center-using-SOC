@@ -1,0 +1,6 @@
+c:\users\harsh srivastava\documents\visual studio 2015\Projects\WcfServicetobeusedindotnetclient\WcfServicetobeusedindotnetclient\bin\WcfServicetobeusedindotnetclient.dll.config
+c:\users\harsh srivastava\documents\visual studio 2015\Projects\WcfServicetobeusedindotnetclient\WcfServicetobeusedindotnetclient\bin\WcfServicetobeusedindotnetclient.dll
+c:\users\harsh srivastava\documents\visual studio 2015\Projects\WcfServicetobeusedindotnetclient\WcfServicetobeusedindotnetclient\bin\WcfServicetobeusedindotnetclient.pdb
+c:\users\harsh srivastava\documents\visual studio 2015\Projects\WcfServicetobeusedindotnetclient\WcfServicetobeusedindotnetclient\obj\Debug\WcfServicetobeusedindotnetclient.csprojResolveAssemblyReference.cache
+c:\users\harsh srivastava\documents\visual studio 2015\Projects\WcfServicetobeusedindotnetclient\WcfServicetobeusedindotnetclient\obj\Debug\WcfServicetobeusedindotnetclient.dll
+c:\users\harsh srivastava\documents\visual studio 2015\Projects\WcfServicetobeusedindotnetclient\WcfServicetobeusedindotnetclient\obj\Debug\WcfServicetobeusedindotnetclient.pdb
